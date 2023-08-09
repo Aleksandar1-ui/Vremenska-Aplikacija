@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VremenskaAplikacija</string>
+    <string name="city">Grad</string>
+    <string name="ccode">Kod</string>
+    <string name="getBtn">Vnesi</string>
+    <string name="update">Vremenska Prognoza</string>
+</resources>
